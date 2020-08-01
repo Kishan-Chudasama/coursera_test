@@ -7,13 +7,27 @@ h1 {
 p {
 	color : green;
 }
+.align-center {
+	text-align : center;
+}
 .color-yellow {
 	color : yellow;
-	font-size : 30px;
 }
 .test {
 	font-size : 25px;
 }
 #color-orange {
 	color : orange;
+}
+.common-div {
+	border : solid black;
+}
+.first-div {
+	padding : 10px;
+}
+.second-div {
+	
+}
+.truird-div {
+	
 }
