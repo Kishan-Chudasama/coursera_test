@@ -11,6 +11,9 @@ p {
 	color : yellow;
 	font-size : 30px;
 }
+.test {
+	font-size : 25px;
+}
 #color-orange {
 	color : orange;
 }
